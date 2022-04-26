@@ -25,5 +25,3 @@ void func(){
 A::A(int aa){
     a = aa;
 }
-
-//hhh
